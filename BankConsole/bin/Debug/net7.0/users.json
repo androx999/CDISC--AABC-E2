@@ -1,0 +1,18 @@
+[
+  {
+    "TaxRegine": "M",
+    "ID": 1,
+    "Name": "Andres",
+    "Email": "andresbc@gmail.com",
+    "Balance": 10200.0,
+    "RegisterDate": "0001-01-01T00:00:00"
+  },
+  {
+    "Departament": "IT",
+    "ID": 2,
+    "Name": "Alejandro",
+    "Email": "alex@hotmail.com",
+    "Balance": 4200.00,
+    "RegisterDate": "0001-01-01T00:00:00"
+  }
+]
